@@ -1,0 +1,5 @@
+{
+  "name": "quartzlib",
+  "version": "1.0.0",
+  "description": "A simple standard library for use with the Quartz engine"
+}
