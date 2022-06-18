@@ -1,5 +1,5 @@
 {
   "default": {
-    "quartzlib": { "baseline": "1.0.4", "port-version": 0 }
+    "quartzlib": { "baseline": "1.0.5", "port-version": 0 }
   }
 }
